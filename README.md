@@ -18,3 +18,6 @@ dc.test.mydomain 192.168.233.131
 bob.test.mydomain 192.168.233.132
 ```
 普通域用户bob的密码qwer@1234
+
+学习kerberos交互过程的文章：
+https://x2nn.github.io/2025/11/06/NTLM%E5%8D%8F%E8%AE%AE%E5%92%8CKerberos%E5%8D%8F%E8%AE%AE/
