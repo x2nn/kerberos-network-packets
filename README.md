@@ -1,0 +1,2 @@
+# kerberos-network-packets
+在学习kerberos交互过程中，wireshark抓取的kerberos交互的流量以及相关流量解密的keytab
